@@ -1,0 +1,8 @@
+{
+  "name": "Ekalavya — AI Answer Evaluator",
+  "description": "An AI-powered platform that evaluates UPSC answers, providing personalized feedback and improvement plans to help aspirants enhance their writing skills.",
+  "prompt": "UPSC answer evaluation platform with personalized feedback and writing improvement tools.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

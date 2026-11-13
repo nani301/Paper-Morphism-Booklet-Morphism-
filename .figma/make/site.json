@@ -1,0 +1,13 @@
+{
+  "icons": {
+    "icon": "/ekalavya-icon.svg?v=2"
+  },
+  "description": "An AI-powered platform that evaluates UPSC answers, providing personalized feedback and improvement plans to help aspirants enhance their writing skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

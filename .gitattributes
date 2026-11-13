@@ -1,0 +1,3 @@
+# Ship browser assets as real files when hosting checks out without Git LFS.
+src/imports/*.png -filter -diff -merge -text
+public/favicon.ico -filter -diff -merge -text
